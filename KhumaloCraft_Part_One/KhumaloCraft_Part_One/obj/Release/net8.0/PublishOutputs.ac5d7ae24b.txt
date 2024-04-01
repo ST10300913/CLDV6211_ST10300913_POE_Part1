@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\Documents\CLDV\KhumaloCraft_Part_One\KhumaloCraft_Part_One\obj\Release\net8.0\PubTmp\Out\KhumaloCraft_Part_One.exe
+C:\Users\lab_services_student\Documents\CLDV\KhumaloCraft_Part_One\KhumaloCraft_Part_One\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\lab_services_student\Documents\CLDV\KhumaloCraft_Part_One\KhumaloCraft_Part_One\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\lab_services_student\Documents\CLDV\KhumaloCraft_Part_One\KhumaloCraft_Part_One\obj\Release\net8.0\PubTmp\Out\KhumaloCraft_Part_One.dll
+C:\Users\lab_services_student\Documents\CLDV\KhumaloCraft_Part_One\KhumaloCraft_Part_One\obj\Release\net8.0\PubTmp\Out\KhumaloCraft_Part_One.deps.json
+C:\Users\lab_services_student\Documents\CLDV\KhumaloCraft_Part_One\KhumaloCraft_Part_One\obj\Release\net8.0\PubTmp\Out\KhumaloCraft_Part_One.runtimeconfig.json
+C:\Users\lab_services_student\Documents\CLDV\KhumaloCraft_Part_One\KhumaloCraft_Part_One\obj\Release\net8.0\PubTmp\Out\KhumaloCraft_Part_One.pdb

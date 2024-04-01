@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\khumalocraft_part_one\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|solutionrelative:khumalocraft_part_one\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\khumalocraft_part_one\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|solutionrelative:khumalocraft_part_one\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\khumalocraft_part_one\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|solutionrelative:khumalocraft_part_one\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|c:\\users\\lab_services_student\\documents\\cldv\\khumalocraft_part_one\\khumalocraft_part_one\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|solutionrelative:khumalocraft_part_one\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\khumalocraft_part_one\\views\\mywork\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|solutionrelative:khumalocraft_part_one\\views\\mywork\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\khumalocraft_part_one\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|solutionrelative:khumalocraft_part_one\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\khumalocraft_part_one\\controllers\\myworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|solutionrelative:khumalocraft_part_one\\controllers\\myworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\khumalocraft_part_one\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|solutionrelative:khumalocraft_part_one\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\khumalocraft_part_one\\models\\crafts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C1B5DF-8A70-4794-9250-17A9B7925A91}|KhumaloCraft_Part_One\\KhumaloCraft_Part_One.csproj|solutionrelative:khumalocraft_part_one\\models\\crafts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Crafts.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Models\\Crafts.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part_One\\Models\\Crafts.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Models\\Crafts.cs",
+              "RelativeToolTip": "KhumaloCraft_Part_One\\Models\\Crafts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:18:57.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Views\\AboutUs\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part_One\\Views\\AboutUs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Views\\AboutUs\\Index.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part_One\\Views\\AboutUs\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:18:14.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Views\\ContactUs\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part_One\\Views\\ContactUs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Views\\ContactUs\\Index.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part_One\\Views\\ContactUs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:17:42.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Views\\MyWork\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part_One\\Views\\MyWork\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Views\\MyWork\\Index.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part_One\\Views\\MyWork\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:15:00.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyWorkController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Controllers\\MyWorkController.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part_One\\Controllers\\MyWorkController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Controllers\\MyWorkController.cs",
+              "RelativeToolTip": "KhumaloCraft_Part_One\\Controllers\\MyWorkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:14:06.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutUsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Controllers\\AboutUsController.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part_One\\Controllers\\AboutUsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Controllers\\AboutUsController.cs",
+              "RelativeToolTip": "KhumaloCraft_Part_One\\Controllers\\AboutUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:13:31.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part_One\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part_One\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:54:53.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part_One\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KhumaloCraft_Part_One\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:49:46.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactUsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Controllers\\ContactUsController.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft_Part_One\\Controllers\\ContactUsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\CLDV\\KhumaloCraft_Part_One\\KhumaloCraft_Part_One\\Controllers\\ContactUsController.cs",
+              "RelativeToolTip": "KhumaloCraft_Part_One\\Controllers\\ContactUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:13:08.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
